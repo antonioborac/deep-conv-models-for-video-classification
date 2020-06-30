@@ -1,0 +1,1 @@
+f = [self.augumentation.apply_transform(fr,self.preprared_aug[i]) for fr in f]
