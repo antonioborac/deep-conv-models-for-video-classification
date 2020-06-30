@@ -10,5 +10,4 @@ The next step is to prepare and start the script 'data/prepare-data.ipynb'. Thes
 and splits and the current directory in which the code is run. The code should split test and train data in two different folders which is important for the data generator.
 
 The next step is to run appropriate Jupiter Notebooks to run the experiments. All notebooks have the same pattern. First, the code for data preparation is executed.
-After that part, the setup differs for further training of already trained models and for models that are trained from scratch. The directories contain saved weights on which
-the results are reported plus additional experiments that were executed but not reported - all directory names are descriptive.
+After that part, the setup differs for further training of already trained models and for models that are trained from scratch.
